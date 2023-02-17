@@ -15,7 +15,7 @@ Tested on: MacOS
 2. **setup.sh** => create 2 copies of the Inpigritas core, named cli_1 and cli_2
 3. **start.sh** => run cli_1 and cli_2 in a single cmd tab. Blocks will be created according to chainspec.py in "artifacts/cli-1" and "artifacts/cli-2" chainspecs have to be the same for both clients, except for the ports they run at / sync with respectively.
 
-## Core containts
+## Core contents
 1. Transfer class
 2. Key-manager class
 3. Blockchain and Block classes
